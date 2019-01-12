@@ -13,4 +13,3 @@ flow --model ./cfg/yolo.cfg --load ./bin/yolo.weights
 
 <img src="results/objects.png" width="500" height="250">
 
-<img src="results/12.png" width="500" height="250">
