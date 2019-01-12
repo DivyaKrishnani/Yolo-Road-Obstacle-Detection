@@ -8,8 +8,6 @@ https://pjreddie.com/darknet/yolov2/
 To load the model use command:
 flow --model ./cfg/yolo.cfg --load ./bin/yolo.weights
 
-For running the road detection script :
-python Road_Detection.py
 
 # Results
 
