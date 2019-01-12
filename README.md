@@ -1,6 +1,6 @@
-# Obstacle Detection on Road and Drivable Area Detection
+# Obstacle Detection
 
-Deep Learning based autonomous road traffic and drivable area detection
+Deep Learning based autonomous road traffic detection
 
 Download weights using the following link to a new folder name it bin:
 https://pjreddie.com/darknet/yolov2/
